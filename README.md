@@ -1,6 +1,6 @@
 # The Knight
 This is a really simple Sprig game that I made to try out the Sprig engine and dabble with 2D games.
-It includes 2 main levels, followed by 2 that are shown if you take the wrong path, and 3 levels that are for displaying text if you take the right path.
+It includes 3 main levels, followed by 2 that are shown if you take the wrong path, and 3 levels that are for displaying text if you take the right path.
 
 ## Arcade Disclaimer
 I did not use anybody else's code making this game.
