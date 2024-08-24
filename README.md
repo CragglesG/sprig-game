@@ -24,9 +24,3 @@ _Level 4: Looks Like A Trick_
 ![img5](https://cloud-94knfhs6o-hack-club-bot.vercel.app/4image.png)
 
 _Level 5: The End_
-
-## Arcade Disclaimer
-I did not use anybody else's code making this game.
-However, I did use the in-built AI once, to ask how I would go about pausing my code. I did not copy and paste the output, I only used it as advice to write my own code.
-
-**Thanks for reviewing my project!**
